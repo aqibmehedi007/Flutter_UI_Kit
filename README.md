@@ -1,4 +1,3 @@
-```markdown
 # Flutter UI Kit
 
 A **comprehensive Flutter UI Kit** packed with **pre-built apps, screens, widgets, and animations** to accelerate your mobile app development.  
